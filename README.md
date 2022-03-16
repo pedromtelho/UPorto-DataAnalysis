@@ -23,7 +23,7 @@ source env/bin/activate
 ```
 
 In repository root file:<br />
-3 - 
+3 - Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
@@ -34,6 +34,13 @@ jupyter notebook
 ```
 
 5 - Start working :)
+
+
+*OBS:* If you install a new dependencie in your virtual environment. Please, run:
+```bash
+pip freeze > requirements.txt
+```
+
 
 
 
