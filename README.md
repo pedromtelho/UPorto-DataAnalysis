@@ -22,7 +22,7 @@ virtualenv env
 source env/bin/activate
 ```
 
-In repository root file:
+In repository root file:<br />
 3 - 
 ```bash
 pip install -r requirements.txt
